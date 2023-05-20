@@ -12,7 +12,7 @@
   "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": 50,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "NFT Key",
-  "MARKETPLACE_LINK": "nao tenho ainda",
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/",
   "SHOW_BACKGROUND": true
 }
