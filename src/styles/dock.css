@@ -1,0 +1,95 @@
+.dock-container {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    left: 0;
+    right: 0;
+    pointer-events: none
+  }
+  
+  .dock {
+    position: relative;
+    display: inline-block;
+    -webkit-perspective: 400;
+    -moz-perspective: 400;
+    pointer-events: all;
+  }
+  
+  
+  .dock ul {
+    font-size: 14px;
+    padding: 0 30px;
+    margin: 0;
+  }
+  
+  .dock li {
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+  }
+  
+  .dock li a:hover {
+    color: var(--color-links-hover);
+    text-decoration: underline;
+  }
+  
+  .dock li::before {
+    display: none;
+  }
+  
+  .dock li span {
+    display: none;
+    position: absolute;
+    bottom: 140px;
+    left: 0;
+    width: 100%;
+    background-color: var(--bg-secondary);
+    padding: 4px 0;
+    border-radius: 12px; /* webkit nightly */
+    -webkit-border-radius: 12px; /* for safari */
+    -moz-border-radius: 12px;
+  }
+  
+  .dock li:hover span {
+    display: block;
+  }
+  .dock li a svg {
+    min-width: 64px;
+    height: 64px;
+    margin-bottom: 10px;
+    -webkit-box-reflect: below 2px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.7, transparent), to(rgba(255, 255, 255, 0.5)));
+    -webkit-box-reflect: below 2px -webkit-linear-gradient(top, transparent, rgba(255, 255, 255, 0.3));
+    -webkit-transition: all 0.3s;
+    -webkit-transform-origin: 50% 100%;
+    -moz-transition: all 0.4s;
+    -moz-transform-origin: 50% 100%;
+    -o-transition: all 0.3s;
+    -o-transform-origin: 50% 100%;
+    margin-right: 0.1em;
+    margin-left: 0.1em;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    background-color: var(--bg-alt);
+    padding: .1em;
+    pointer-events: stroke;
+  }
+  @media (min-width: 768px) {
+    .dock li:hover a svg {
+      -webkit-transform: scale(1.5);
+      -moz-transform: scale(1.5);
+      -o-transform: scale(1.5);
+      margin: 0 0.5em 10px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    /* one element after and element before (with JS)*/
+    .dock li:hover + li a svg,
+    .dock li.prev svg {
+      -webkit-transform: scale(1.4);
+      -moz-transform: scale(1.4);
+      -o-transform: scale(1.4);
+      margin: 0 1.4em 10px;
+    }
+  }

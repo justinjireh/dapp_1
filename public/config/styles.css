@@ -1,0 +1,572 @@
+
+.ReactModal__Overlay, .ReactModal__Overlay--after-open{
+  background-color: rgba(255,255,255,0);
+  }
+
+.boxShadow{
+  text-align: 'center';
+  border-radius: '0';
+  width: '90%';
+  position: 'relative';
+  box-shadow: 'rgba(0, 0, 0, 0.24) 0px 3px 8px';
+}
+
+
+table tr td {
+  border-bottom: 5px solid #FFF;
+  word-wrap: break-word;
+  overflow-wrap:break-word;
+  word-break: break-all;
+}
+table tr td:nth-child(2) {
+  border-left: 5px solid #FFF;
+}
+table tr td:nth-child(1) {
+  
+  padding: 10px;
+}
+
+.light700{
+  font-weight: 700;
+  
+}
+.light500{
+  font-weight: 500;
+  
+}
+  
+  .Jost{
+    font-family: 'Jost', sans-serif;
+  }
+  .Alice{
+    font-family: 'Alice', serif;
+    
+  }
+
+  .Cormorant{
+    font-family: 'Cormorant Garamond';
+  }
+
+  .specialElite{
+    font-family: 'Special Elite';
+  }
+  .pressStart{
+    font-family: 'Press Start 2P';  
+  }
+
+  .leftAbout, .leftAbout p{
+    
+    background-color: #b1d0f0;
+    color: #000;
+    
+    overflow: visible;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    height: auto;
+  }
+  .rightAbout, .rightAbout p{
+    
+    padding: 5px;
+    color: #000;
+    height: auto;
+    
+    background-color: #d6e8fb;
+    color: #000;
+  }
+  .top5{
+    margin-top: 5px;
+  }
+
+  .left5{
+    padding-left: 2%;
+  }
+
+  .white{
+    color: #FFF;
+    font-weight: bold;
+  }
+
+  .interests h2{
+    background-color: #6699cc;
+    color:#FFF;
+    width: '100%;';
+    display: 'block';
+    height: '6%';
+    padding: 5px;
+    font-size: larger;
+  }
+
+.pequena{
+  font-size: 9px;
+  margin-top: 20px;
+}
+  
+
+
+.welcome{
+  width:200px;
+}
+
+button, a, li {
+ 
+    cursor: pointer;
+
+}
+.roadmap p{
+  font-family: 'Special Elite';
+  text-align: left;
+  margin-left: 3px;
+  line-height:30px;
+ 
+}
+.quadroRoadMap{
+  width: 100%;
+ max-height: 700px; 
+margin-top:35px;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  pointer-events:all;
+}
+
+
+.botaoMint2{
+  position: relative;
+  margin-right: -14px;
+}
+
+.botaoFechar{
+  margin-top: -8px;
+  float: right;
+  background-color: #000;
+  font-size: 32px;
+  font-weight: 600;
+  width: 32px;
+  height: 32px;
+  color: #FFF;
+  padding: 0;
+  font-family: 'Press Start 2P';
+  text-align: center;
+  z-index:10000;
+    
+   
+}
+.botaoFechar:hover{
+  color: #000;
+  background-color: #FFF;
+
+
+}
+
+
+.janela{
+  background-color: #FFF;
+  padding-bottom: 50px;
+}
+
+.total{
+  background-image: url('./images/lcc_gb.jpeg') ;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  height: auto;
+}
+
+
+
+.tamanho14{
+  font-size: 14px;
+  letter-spacing: 0.2rem;
+}
+.tamanho16{
+  font-size: 16px;
+  letter-spacing: 0.1rem;
+}
+.tamanho20{
+  font-size: 20px;
+  letter-spacing: 0.1rem;
+}
+.tamanho24{
+  font-size: 24px;
+  letter-spacing: 0.1rem;
+}
+.tamanho32{
+  font-size: 32px;
+  letter-spacing: 0.1rem;
+}
+.tamanho48{
+  font-size: 48px;
+  letter-spacing: 0.1rem;
+}
+
+
+
+.linha30{
+  line-height: 30px;
+}
+
+
+
+
+.lcc{
+  font-size: medium;
+}
+
+
+
+
+.quadro{
+  width: 100%;
+  height: 100%;
+  padding-top: 35px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.espaco{
+  display:block;
+  height: 35px;;
+}
+
+
+.rodape{
+  position: relative;
+  margin-top: 10%;
+  background-color:  #1b1e22;
+}
+
+.carrosel{
+  height: 100%;
+  margin-top: -10%;
+  margin-left: -7%;
+  
+}
+
+
+
+
+
+
+
+
+.modalCloud{
+  padding: 0;
+  left: 50%;
+  right: auto;
+  max-width: 100%;
+  top: 35%;
+  height: 80%;
+  margin-right: -50%;
+  overflow: hidden;
+  transform: translate(0%, 15%);
+  border: 6px solid #000000;
+  box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+}
+
+
+
+
+/* atualizado */
+
+
+
+.quadroFantom{
+  width: 100%;
+  top:0px;
+  margin-top: 35px;
+  
+  height: 95%;
+  overflow: scroll;
+  
+}
+
+.botaoPreto{
+  background-color:  #1b1e22;
+  text-align: center;
+  border-radius: 15px;
+  color:#FFF;
+  font-family: 'Press Start 2P';
+  width: 70%;
+ 
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: -8%;
+  box-shadow: rgba(124, 124, 124, 0.24) 0px 3px 8px;
+
+}
+
+
+/* ok iphone */
+
+
+.telaAbout{
+  padding: 0;
+  left: 50%;
+  right: auto;
+  width:95%;
+  top: 55%;
+  height: 550px;
+  
+  margin-right: -50%;
+  overflow: hidden;
+  transform: translate(3%, 2%);
+  background-color: #fff;
+  border: 6px solid #000000;
+  box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+}
+
+.quadroAbout{
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  padding-top: 35px;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  pointer-events:all;
+}
+.telaRoadMap{
+  padding: 0;
+  left: 50%;
+  right: auto;
+  width: 96%;
+  top: 55%;
+  height: auto;
+  
+  margin-right: -50%;
+  overflow: hidden;
+  transform: translate(2%, 10%);
+  background-color: #fff;
+  border: 6px solid #000000;
+  box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+}
+
+.telaTwitter{
+  padding: 0;
+  left: 50%;
+  right: auto;
+  width: 95%;
+  top: 55%;
+  height: 200px;
+  
+  margin-right: -50%;
+  overflow: hidden;
+  transform: translate(3%, 50%);
+  background-color: #fff;
+  border: 6px solid #000000;
+  box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+}
+
+.quadroTwitter{
+  width: 100%;
+  height: auto;
+  margin-top:80px;
+  
+}
+
+.telaModal{
+  padding: 0;
+  left: 50%;
+  right: auto;
+  width: 96%;
+  top: 55%;
+  height: 800px;
+  display:table;
+  margin-right: -50%;
+  overflow: hidden;
+  transform: translate(2%, 5%);
+  background-color: #fff;
+  border: 6px solid #000000;
+  box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+}
+
+.botaoMint{
+  margin-right:-3%;
+  margin-top: 5px;
+}
+
+.quadroMint{
+  width: 100%;
+  height: 90%;
+  
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+
+
+
+.telaCloud{
+  padding: 0;
+  left: 50%;
+  right: auto;
+  width:95%;
+  top: 55%;
+  height: 550px;
+  
+  margin-right: -50%;
+  overflow: hidden;
+  transform: translate(3%, 3%);
+  background-color: #fff;
+  border: 6px solid #000000;
+  box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+}
+
+.quadroCloud{
+  width: 100%;
+  top:0px;
+  margin-top: 35px;
+  
+  height: 93%;
+  overflow: scroll;
+  
+}
+
+.telaModalFantom{
+  padding: 0;
+  left: 50%;
+  right: auto;
+  width: 95%;
+  top: 55%;
+  height: auto;
+  display:table;
+  margin-right: -50%;
+  overflow: hidden;
+  transform: translate(4%, 5%);
+  background-color: #fff;
+  border: 6px solid #000000;
+  box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+}
+
+
+
+.textoFantom{
+  max-width: 70%;
+  float: left;
+  text-align: center;
+}
+
+
+
+@media screen and (max-height: 700px) {
+  .quadroRoadMap{
+    width: 100%;
+   max-height: 400px; 
+  margin-top:35px;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    pointer-events:all;
+  }
+}
+@media screen and (max-width: 389px) {
+
+
+  .telaRoadMap{
+    padding: 0;
+    left: 50%;
+    right: auto;
+    width: 95%;
+    top: 55%;
+    height: auto;
+    margin-right: -50%;
+    overflow: hidden;
+    transform: translate(3%, 10%);
+    background-color: #fff;
+    border: 6px solid #0e0e0e;
+    box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+  }
+  
+
+
+  .telaTwitter{
+    padding: 0;
+    left: 50%;
+    right: auto;
+    width: 95%;
+    top: 55%;
+    height: 200px;
+    
+    margin-right: -50%;
+    overflow: hidden;
+    transform: translate(3%, 50%);
+    background-color: #fff;
+    border: 6px solid #1b1e22;
+    box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+  }
+  
+  .quadroTwitter{
+    width: 100%;
+    height: auto;
+    margin-top:80px;
+    
+  }
+
+/* ok samsung */
+
+
+.telaModalFantom{
+  padding: 0;
+  left: 50%;
+  right: auto;
+  width: 95%;
+  top: 55%;
+  height: auto;
+  
+  margin-right: -50%;
+  overflow: hidden;
+  transform: translate(4%, 5%);
+  background-color: #fff;
+  border: 6px solid #000000;
+  box-shadow: rgba(0, 0, 0, 0.60) 0px 8px 12px;
+}
+
+.textoFantom{
+  max-width: 65%;
+  float: left;
+  text-align: center;
+}
+
+}
+
+
+
+.celular{
+  display:block;
+  word-wrap: break-all;
+  max-width: 100%;
+  
+}
+
+p{
+  position: relative;
+
+}
+.botaoPreto {
+  width: 90%;
+  background-color: #DDD;
+  border: 2px solid #000;
+  border-radius: 3px;
+  padding: 20px;
+  box-shadow: 2px 2px 0px #000;
+  color: black;
+  font-family: Arial;
+}
+
+
+body {
+  cursor: url('./images/cursor.png'), auto;
+}
+
+button:hover {
+  cursor: url('./images/pointer_hand.png'), auto !important;
+}
+
+
+button:hover, a:hover {
+  cursor: url('./images/pointer_hand.png'), auto !important;
+}
+
+.Cormorant.white.light500.linha30 span {
+  display: block;
+  margin-bottom: 10px;
+}
