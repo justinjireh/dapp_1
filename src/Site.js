@@ -496,6 +496,8 @@ const StyledButton = styled.button`
   box-shadow: 2px 2px 0px #000;
   position: relative;
   overflow: hidden;
+  color: #000; /* Add this line to set the font color to black */
+
   &:before {
     content: "";
     background-color: rgba(255,255,255,0.5);
@@ -508,10 +510,12 @@ const StyledButton = styled.button`
     transform: skewX(-45deg) translateX(0);
     transition: none;
   }
+
   &:hover {
     background-color: #ffffff;
     color: #fff;
     border-bottom: 4px solid darken(#ffffff, 10%);
+
     &:before {
       transform: skewX(-45deg) translateX(32em);
       transition: all 0.5s ease-in-out;
