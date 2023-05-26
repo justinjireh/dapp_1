@@ -509,9 +509,9 @@ const StyledButton = styled.button`
     transition: none;
   }
   &:hover {
-    background-color: #2194E0;
+    background-color: #ffffff;
     color: #fff;
-    border-bottom: 4px solid darken(#2194E0, 10%);
+    border-bottom: 4px solid darken(#ffffff, 10%);
     &:before {
       transform: skewX(-45deg) translateX(32em);
       transition: all 0.5s ease-in-out;
