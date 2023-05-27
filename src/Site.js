@@ -1383,8 +1383,6 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
                 <p>- make art</p>
                 <p>- have fun</p>
                 <p>- learn</p>
-                <p>- Create pfp collection</p>
-                <p>- 1/1 works</p>
                 <p>- explore other chains</p>
                 <p>- grow</p>
                 <p>- learn</p>
