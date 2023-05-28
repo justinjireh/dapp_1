@@ -173,7 +173,7 @@ function Site() {
       
 .once("error", (err) => {
         console.log(err);
-        setFeedback("That's Curious..");
+        setFeedback("hmmm?");
         setClaimingNft(false);
       })
       .then((receipt) => {
