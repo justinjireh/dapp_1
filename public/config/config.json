@@ -10,7 +10,7 @@
   "SYMBOL": "CLOUD",
   "MAX_SUPPLY": 555,
   "WEI_COST": 55000000000000000000,
-  "DISPLAY_COST": 55,
+  "DISPLAY_COST": 50,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Paintswap",
   "MARKETPLACE_LINK": "https://paintswap.finance/",
