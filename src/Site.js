@@ -790,13 +790,13 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
 
               </div>
               <div className="row" style={{ marginTop: '20px' }}>
-                <div className="col-md-1"></div>
-                <div className="col-md-11" align="center">
-
-                  <p style={{ textAlign: 'justify', fontSize: '25px' }} className="Alice lcc linha30">Welcome to the childish world my imagination.  Each piece of the Little Clay Cloud collection is a unique creation, molded from clay and brought to life by photographing them under studio lighting. Processed digitally. Made with love.</p>
-                </div>
-
-              </div>
+  <div className="col-md-1"></div>
+  <div className="col-md-11" align="center">
+    <p style={{ textAlign: 'left', fontSize: '25px', lineHeight: '1.2' }} className="Alice lcc linha30">
+      Welcome to the childish world of my imagination. Each piece of the Little Clay Cloud collection is a unique creation, molded from clay and brought to life by photographing them under studio lighting. Processed digitally. Made with love.
+    </p>
+  </div>
+</div>
 
 
             </div>
