@@ -812,10 +812,10 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
   width: "90%",
   background: "linear-gradient(-45deg, #ffc9de, #fdd97c, #fbfdaa, #c1f0b2, #b2e4f0, #d6b2f0)",
   backgroundSize: "100% 100%",
-  animation: "gradient 10s ease infinite",
   border: "2px solid #000",
   borderRadius: "14px",
   padding: "20px",
+  color: "#000000", 
   textShadow: "2px 2px 2px rgba(0,0,0,0.5)",
   boxShadow: "5px 5px 5px rgba(0, 0, 0, 0.8)"
 }} onClick={abrirCloud}>
