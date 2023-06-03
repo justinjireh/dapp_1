@@ -972,7 +972,9 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
           <div className="row" style={{ zIindex: 10000, maxWidth: '100%', margin: 0, padding: 0, height: '50px' }}>
             <div className="col-md-12" style={{ backgroundColor: "#1b1e22" }} >
 
-              <img src="./config/images/cll.png" style={{ float: 'left', maxHeight: '50px', maxWidth: '50%', marginTop: '20px', marginBottom: '5px' }} />
+            <h2 style={styleH2} className="pressStart handle">Little Clay Cloud!
+
+</h2>
 
               <button onClick={fecharCloud} className="pressStart botaoFechar botaoMint" >
                 X
