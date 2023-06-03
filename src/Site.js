@@ -663,8 +663,8 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
         <p className="Jost white">General</p>
       </div>
       <div className="col-md-6 rightAbout">
-        <p className="Cormorant tamanho14 break-word">Here is a list of things I've often liked...</p>
-        <p className="Cormorant tamanho14 linha30 break-word">visual expressions of emotion. purposeful aesthetic arrangements. fantom. altered states. NFT scenes. harmonious color palettes. learning to code and develop. music. web3. light. mood. atmosphere. patterns. shapes. print. textures. metal detecting for history and treasures. gaming to clear my head. nintendo. crypto communities. color wheels. comedy. rainy days. book reading. lofi hiphop. traveling around our planet. seamlessly looping GIFs. wood working. gardening. chromatic aberration. light leaks. sativa with citrus undertones. admiring typography. the play between order and chaos in glitch art. refracted light. pantone swatches. lighting scenes. the texture of rag paper. vintage camera lenses. vaporwave aesthetic. cartography. fresh threads. transferring intangible ideas onto tangible surfaces. negative space. caffeine. traveling astral planes. existentially thinking. refracted light. making things and stuff.</p>
+        <p className="Cormorant tamanho18 break-word">Here is a list of things I've often liked...</p>
+        <p className="Cormorant tamanho18 linha30 break-word">visual expressions of emotion. purposeful aesthetic arrangements. fantom network. altered states. NFTs. harmonious color palettes. learning to code and develop. music. web3. light. mood. atmosphere. patterns. shapes. print. textures. metal detecting for history and treasures. nintendo. crypto communities. color wheels. comedy. refracted light. baking. rainy days. travel literature. lofi hiphop. seamlessly looping GIFs. wood working. gardening. chromatic aberration. cartography. a good crossword. light leaks. sativa with citrus undertones. typography. the play between order and chaos in glitch art.  pantone swatches. the texture of rag paper. lighting scenes. vintage camera lenses. vaporwave aesthetic. transferring intangible ideas onto tangible surfaces. caffeine. traveling astral planes. existentially thinking. making things.</p>
       </div>
   
 
@@ -676,15 +676,15 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
                   <p className="Jost white">Software</p>
                 </div>
                 <div className="col-md-9 rightAbout">
-                  <p className="Cormorant  tamanho14 ">HERE IS A LIST OF SOFTWARE I LIKE TO USE...</p>
-                  <p className="Cormorant  tamanho14 linha30">Photoshop. Illustrator. Premiere. After Effects. Lightroom. Blender. ArcGis. MS Paint. </p>
+                  <p className="Cormorant  tamanho18 ">HERE IS A LIST OF SOFTWARE I LIKE TO USE...</p>
+                  <p className="Cormorant  tamanho18 linha30">Photoshop. Illustrator. Premiere. After Effects. Lightroom. Blender. ArcGis. MS Paint. </p>
                 </div>
               </div>
               <div className="row top5 left5" style={{ marginTop: '4px' }}>
                 <div className="col-md-3 leftAbout">
                   <p className="Jost white">Languages:</p>
                 </div><div className="col-md-9 rightAbout">
-                  <p className="Cormorant  tamanho14 ">English. Português. Español</p>
+                  <p className="Cormorant  tamanho18 ">English. Português. Español</p>
                 </div>
               </div>
               <div className="row top5 left5" style={{ marginTop: '3px' }}>
@@ -692,7 +692,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
                   <p className="Jost white">Zodiac Sign:</p>
                 </div>
                 <div className="col-md-9 rightAbout">
-                  <p className="Cormorant  tamanho14 ">Leo</p>
+                  <p className="Cormorant  tamanho18 ">Leo</p>
                 </div>
               </div>
             </div>
