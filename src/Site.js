@@ -760,7 +760,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
       <Modal
         isOpen={mintIsOpen}
         onRequestClose={fecharMint}
-        contentLabel="Little Clay Cloud !"
+        contentLabel="Little Clay Cloud!"
         className="telaCloud"
       >
         <h2 style={styleH2} className="pressStart handle">Little Clay Cloud!
@@ -793,7 +793,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
                 <div className="col-md-1"></div>
                 <div className="col-md-11" align="center">
 
-                  <p style={{ textAlign: 'justify', fontSize: '25px' }} className="Alice lcc linha30">Step into the world of childish imagination with the Little Clay Cloud collection. Each piece is a unique creation, molded from clay and brought to life by photographing them under studio lighting. Processed digitally. Made with love.</p>
+                  <p style={{ textAlign: 'justify', fontSize: '25px' }} className="Alice lcc linha30">Welcome to the world of childish imagination with the Little Clay Cloud collection. Each piece is a unique creation, molded from clay and brought to life by photographing them under studio lighting. Processed digitally. Made with love.</p>
                 </div>
 
               </div>
@@ -819,7 +819,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
   textShadow: "2px 2px 2px rgba(0,0,0,0.5)",
   boxShadow: "5px 5px 5px rgba(0, 0, 0, 0.8)"
 }} onClick={abrirCloud}>
-   <p className="pressStart" style={{ margin: "0", fontSize: "22px" }}>ENTER</p>
+   <p className="pressStart" style={{ margin: "0", fontSize: "22px"  }}>ENTER</p>
 </Button>
 
 </div>
