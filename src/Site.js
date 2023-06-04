@@ -818,7 +818,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
   textShadow: "2px 2px 2px rgba(0,0,0,0.5)",
   boxShadow: "5px 5px 5px rgba(0, 0, 0, 0.8)"
 }} onClick={abrirCloud}>
-   <p className="pressStart" style={{ margin: "0", fontSize: "22px"  }}>ENTER</p>
+   <p className="pressStart" style={{ margin: "0", fontSize: "22px"  }}>OPENING</p>
 </Button>
 
 </div>
@@ -1344,12 +1344,12 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
           
           <div className="col-md-4">
             <h2 style={styleH2Rodape} className="pressStart" >
-              <a href="https://paintswap.finance" target="new" >
+              <a href="https://paintswap.finance/marketplace/fantom/collections/little-clay-cloud" target="new" >
                 <img src="./config/images/paint.png" style={{ float: 'right', maxWidth: '80%', maxHeight: '50%' }} ></img>
               
               
               </a>
-              <a href="https://nftkey.app/" target="new" >
+              <a href="https://nftkey.app/collections/littleclaycloud/" target="new" >
                 <img src="./config/images/nft.png" style={{ float: 'right', maxWidth: '80%', maxHeight: '50%' }} ></img>
               
               
