@@ -818,7 +818,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
   textShadow: "2px 2px 2px rgba(0,0,0,0.5)",
   boxShadow: "5px 5px 5px rgba(0, 0, 0, 0.8)"
 }} onClick={abrirCloud}>
-   <p className="pressStart" style={{ margin: "0", fontSize: "22px"  }}>OPENING</p>
+   <p className="pressStart" style={{ margin: "0", fontSize: "22px"  }}>ENTER</p>
 </Button>
 
 </div>
