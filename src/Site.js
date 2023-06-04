@@ -1247,7 +1247,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
     outline: "none", 
     textShadow: "2px 2px 2px rgba(0,0,0,0.5)"
   }}>
-    {claimingNft ? "condensing..." : "MINT"}
+    {claimingNft ? "Condensing" : "MINT"}
   </p>
 </StyledButton>
 
