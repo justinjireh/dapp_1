@@ -1384,7 +1384,6 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
                 <p>- learn</p>
                 <p>- explore other chains</p>
                 <p>- grow</p>
-                <p>- learn</p>
                 <p>- work on site</p>
                 <p>- build</p>
                 <p>- evolve</p>
