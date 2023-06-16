@@ -1381,6 +1381,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
               <div className="col-md-6 roadmap">
                 <p>- make art</p>
                 <p>- have fun</p>
+                <p>holder benefits</p>
                 <p>- learn</p>
                 <p>- explore other chains</p>
                 <p>- grow</p>
@@ -1392,6 +1393,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
                 <p></p>
                 <p className='medio'>This plan may change from time to time.</p>
               </div>
+
 
             </div>
           </div>
