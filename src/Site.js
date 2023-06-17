@@ -1350,7 +1350,7 @@ I am an artist and designer, dabbling in all arts and mediums that inspire me an
               
               </a>
               <a href="https://novablox.ai/home" target="new" >
-                <img src="public/config/images/novabl0x.png" style={{ float: 'right', maxWidth: '80%', maxHeight: '50%' }} ></img>
+                <img src="./config/images/novabl0x.png" style={{ float: 'right', maxWidth: '80%', maxHeight: '50%' }} ></img>
               
               
               </a>
