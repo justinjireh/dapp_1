@@ -603,7 +603,7 @@ const ConnectButton = ({ onClick }) => {
 
                 <div className="col-md-11" style={{ textAlign: 'justify' }}>
                   <p className="Alice tamanho16 linha30" >
-I am an artist and designer, dabbling in all arts and mediums that inspire me and allow me to communicate my ideas and emotions. I am constantly exploring new ways to push my creativity and skills. Currently I am stumbling my way through the exciting world of web3. I don't have much of a road map at the moment except to make art and continue my journey to discover new possibilities of how I can creatively build, meet people and grow in web3 space.</p>
+I am an artist and web designer, dabbling in all arts and mediums that inspire me and allow me to communicate my ideas and emotions. I am constantly exploring new ways to push my creativity and skills. Currently I am stumbling my way through the exciting world of web3. I don't have much of a road map at the moment except to make art and continue my journey to discover new possibilities of how I can creatively build, meet people and grow in web3 space.</p>
                 </div>
 
               </div>
