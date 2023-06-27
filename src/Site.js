@@ -591,7 +591,7 @@ const ConnectButton = ({ onClick }) => {
           
           <div className="row">
             <div className="col-md-3" align="center" style={{ padding: '20px', paddingTop: '25px' }}>
-              <img src="./config/images/me.gif" style={styleImgAbout}></img>
+              <img src="./config/images/ME copy 2.jpg" style={styleImgAbout}></img>
             </div>
             <div className="col-md-9" style={{ paddingTop: '4%' }}>
               <div className='row'>
