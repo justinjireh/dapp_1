@@ -179,7 +179,7 @@ function Site() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `Check out your art on Paintswap or NFT Key!`
+          `Check out your art on Paintswap!`
         );
         setClaimingNft(false);
         dispatch(fetchData(blockchain.account));
