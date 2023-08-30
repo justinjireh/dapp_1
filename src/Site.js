@@ -1089,7 +1089,7 @@ I am an artist and web designer, dabbling in all arts and mediums that inspire m
                           <s.TextTitle
                             style={{ fontSize: 14, textAlign: "center", color: "#1b1e22" }}
                           >
-                            1 {CONFIG.SYMBOL} costs {CONFIG.DISPLAY_COST}{" "}
+                            1 {CONFIG.SYMBOL} = {CONFIG.DISPLAY_COST}{" "}
                             {CONFIG.NETWORK.SYMBOL}.
                           </s.TextTitle>
 
