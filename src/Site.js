@@ -733,7 +733,7 @@ I am an artist and web designer, dabbling in all arts and mediums that inspire m
     borderRadius: '10px',
     marginTop: '30px',
     boxShadow: 'inset 1px 1px rgb(255, 255, 255), inset -1px -1px rgb(0, 0, 0)',
-    color: 'rgb(29 161 242)',
+    color: 'rgb(0 0 0)',
     fontFamily: 'Arial, sans-serif',
     fontWeight: 'bold',
     fontSize: '14px',
