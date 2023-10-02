@@ -707,13 +707,13 @@ I am an artist and web designer, dabbling in all arts and mediums that inspire m
       <Modal
         isOpen={TwOpen}
         onRequestClose={fecharTwitter}
-        contentLabel="Twitter !"
+        contentLabel=" X !"
 
         className="telaTwitter"
 
 
       >
-        <h2 style={styleH2} className="pressStart" >Twitter!
+        <h2 style={styleH2} className="pressStart" > X !
 
           <button onClick={fecharTwitter} className="pressStart botaoFechar">
             X
@@ -744,7 +744,7 @@ I am an artist and web designer, dabbling in all arts and mediums that inspire m
     window.open('https://twitter.com/justinjireh', 'new');
   }}
 >
-  ENTER TWITTER!
+  ENTER X!
 </Button>
 
 
