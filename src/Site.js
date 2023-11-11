@@ -625,7 +625,7 @@ I am an artist and web designer, dabbling in all arts and mediums that inspire m
                     </td>
                     <td className="col-md-9 rightAbout">
                       <p className='Cormorant white light500 '>Here is a list of things I've often liked...</p>
-                      <p className='Cormorant white light500 linha30'>visual expressions of emotion. purposeful aesthetic arrangements. fantom network. altered states. NFTs. harmonious color palettes. learning to code and develop. music. web3. light. mood. atmosphere. patterns. shapes. print. textures. nintendo. crypto. color wheels. refracted light. rainy days. travel. lofi hiphop. seamlessly looping GIFs. chromatic aberration. cartography. light leaks. typography. the play between order and chaos in glitch art. pantone swatches. the texture of rag paper. lighting scenes. vintage camera lenses. vaporwave aesthetic. transferring intangible ideas onto tangible surfaces. caffeine. traveling astral planes. existentially thinking.</p>
+                      <p className='Cormorant white light500 linha30'>visual expressions of emotion. purposeful aesthetic arrangements. altered states. NFTs. harmonious color palettes. music. web3. light. mood. atmosphere. patterns. shapes. print. textures. crypto. color wheels. refracted light. rainy days. seamlessly looping GIFs. chromatic aberration. light leaks. typography. the play between order and chaos in glitch art. pantone swatches. the texture of rag paper. lighting scenes. vintage camera lenses. vaporwave aesthetic. transferring intangible ideas onto tangible surfaces. traveling astral planes. existentially thinking.</p>
                     </td>
                   </tr>
                   <tr>
@@ -664,7 +664,7 @@ I am an artist and web designer, dabbling in all arts and mediums that inspire m
       </div>
       <div className="col-md-6 rightAbout">
         <p className="Cormorant tamanho18 break-word">Here is a list of things I've often liked...</p>
-        <p className="Cormorant tamanho18 linha30 break-word">visual expressions of emotion. purposeful aesthetic arrangements. fantom network. altered states. NFTs. harmonious color palettes. learning to code and develop. music. web3. light. mood. atmosphere. patterns. shapes. print. textures. nintendo. crypto. color wheels. refracted light. rainy days. travel. lofi hiphop. seamlessly looping GIFs. chromatic aberration. cartography. light leaks. typography. the play between order and chaos in glitch art. pantone swatches. the texture of rag paper. lighting scenes. vintage camera lenses. vaporwave aesthetic. transferring intangible ideas onto tangible surfaces. caffeine. traveling astral planes. existentially thinking.</p>
+        <p className="Cormorant tamanho18 linha30 break-word">visual expressions of emotion. purposeful aesthetic arrangements. altered states. NFTs. harmonious color palettes. music. web3. light. mood. atmosphere. patterns. shapes. print. textures. crypto. color wheels. refracted light. rainy days. seamlessly looping GIFs. chromatic aberration. light leaks. typography. the play between order and chaos in glitch art. pantone swatches. the texture of rag paper. lighting scenes. vintage camera lenses. vaporwave aesthetic. transferring intangible ideas onto tangible surfaces. traveling astral planes. existentially thinking.</p>
       </div>
   
 
