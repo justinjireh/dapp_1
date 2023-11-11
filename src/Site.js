@@ -1381,11 +1381,6 @@ I am an artist and web designer, dabbling in all arts and mediums that inspire m
               <div className="col-md-6 roadmap">
                 <p>- make art</p>
                 <p>- have fun</p>
-                <p>holder benefits</p>
-                <p>- learn</p>
-                <p>- explore other chains</p>
-                <p>- grow</p>
-                <p>- work on site</p>
                 <p>- build</p>
                 <p>- evolve</p>
                 <p></p>
