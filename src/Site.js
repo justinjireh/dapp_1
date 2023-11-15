@@ -253,7 +253,7 @@ function Site() {
 
   const [roadMapIsOpen, setRoadMapIsOpen] = React.useState(false);
   const [modalIsOpen, setIsOpen] = React.useState(false);
-  const [cloudIsOpen, setCloudIsOpen] = React.useState(false);
+  const [cloudIsOpen, setCloudIsOpen] = React.useState(true);
   const [mintIsOpen, setMintIsOpen] = React.useState(false);
   const [TwOpen, setTwOpen] = React.useState(false);
   const [fantomIsOpen, setFantomIsOpen] = React.useState(false);
