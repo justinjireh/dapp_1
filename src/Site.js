@@ -1347,11 +1347,7 @@ I am an artist, dabbling in all arts and mediums that inspire me and allow me to
               <a href="https://paintswap.finance/marketplace/fantom/collections/little-clay-cloud" target="new" >
                 <img src="./config/images/paint.png" style={{ float: 'right', maxWidth: '80%', maxHeight: '50%' }} ></img>
               
-                </a>
-              <a href="https://novablox.ai/erc721-staking/littleclaycloud" target="new" >
-                <img src="./config/images/novabl0x.png" style={{ float: 'right', maxWidth: '80%', maxHeight: '50%' }} ></img>
-
-              
+               
               
               </a>
             </h2>
