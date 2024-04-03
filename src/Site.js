@@ -713,10 +713,10 @@ I am an artist, dabbling in all arts and mediums that inspire me and allow me to
 
 
       >
-        <h2 style={styleH2} className="pressStart" > X !
+        <h2 style={styleH2} className="pressStart" > TWITTER!
 
           <button onClick={fecharTwitter} className="pressStart botaoFechar">
-            X
+            ENTER
           </button>
 
         </h2>
