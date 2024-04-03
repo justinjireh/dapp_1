@@ -716,7 +716,7 @@ I am an artist, dabbling in all arts and mediums that inspire me and allow me to
         <h2 style={styleH2} className="pressStart" > TWITTER!
 
           <button onClick={fecharTwitter} className="pressStart botaoFechar">
-            ENTER
+            X
           </button>
 
         </h2>
@@ -744,7 +744,7 @@ I am an artist, dabbling in all arts and mediums that inspire me and allow me to
     window.open('https://twitter.com/justinjireh', 'new');
   }}
 >
-  ENTER X!
+  ENTER!
 </Button>
 
 
