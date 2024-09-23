@@ -559,7 +559,7 @@ const ConnectButton = ({ onClick }) => {
     <s.Screen >
       <h2 style={styleH2Top}>
 
-        <a href="/" target="_self" style={{ textDecoration: 'none', color: '#fff' }}><div style={{marginTop: '4px', marginLeft: 20, padding: 10, fontFamily: 'Press Start 2P' }} className="pressStart">justinjireh</div></a></h2>
+        <a href="/" target="_self" style={{ textDecoration: 'none', color: '#fff' }}><div style={{marginTop: '4px', marginLeft: 20, padding: 10, fontFamily: 'Press Start 2P' }} className="pressStart">meuslix</div></a></h2>
       <s.Container
         flex={1}
         ai={"center"}
