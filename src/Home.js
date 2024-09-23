@@ -29,7 +29,7 @@ class Home extends Component {
       <s.Screen >
         <h2 style={styleH2Top}>
 
-          <div style={{ marginLeft: 20, padding: 10, fontFamily: 'Press Start 2P' }} class="pressStart">justinjireh</div></h2>
+          <div style={{ marginLeft: 20, padding: 10, fontFamily: 'Press Start 2P' }} class="pressStart">meuslix</div></h2>
         <s.Container
           flex={1}
           ai={"center"}
