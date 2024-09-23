@@ -741,7 +741,7 @@ I am an artist, dabbling in all arts and mediums that inspire me and allow me to
     letterSpacing: '2px'
   }}
   onClick={(e) => {
-    window.open('https://twitter.com/justinjireh', 'new');
+    window.open('https://twitter.com/meuslix', 'new');
   }}
 >
   ENTER!
